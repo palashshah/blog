@@ -1,4 +1,4 @@
-Simple Blog part 1: The Build
+Simple Blog
 =============
 
-These files acompany the tutorial: [Creating a blog from scratch with PHP](http://daveismyname.com/creating-a-blog-from-scratch-with-php-bp)
+A simple blog using PHP, MySQL and Bootstrap.
